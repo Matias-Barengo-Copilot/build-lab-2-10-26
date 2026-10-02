@@ -1,0 +1,9 @@
+env
+.env
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
+test_pipeline.py
+*.md
+*.zip
+.git
